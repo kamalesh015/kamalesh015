@@ -13,7 +13,7 @@
   <a href="https://github.com/kamalesh015">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/kamalesh015">
+  <a href="https://leetcode.com/u/kamaleshm15/">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
   </a>
   <a href="mailto:mk.kamalesh15@gmail.com">
