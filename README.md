@@ -17,34 +17,16 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Kamalesh:
-    def __init__(self):
-        self.name           = "Kamalesh M"
-        self.location       = "Tamil Nadu, India 🇮🇳"
-        self.degree         = "B.Tech AI & Data Science @ Karpagam College of Engineering"
-        self.email          = "mk.kamalesh15@gmail.com"
-        self.github         = "github.com/kamalesh015"
-
-        self.stack = [
-            "Python", "SQL", "TensorFlow", "Scikit-Learn",
-            "FastAPI", "dbt", "BigQuery", "Power BI",
-            "MLflow", "Docker", "OpenCV", "YOLO"
-        ]
-
-        self.currently_learning = [
-            "Advanced MLOps & Model Monitoring",
-            "LLM Fine-tuning & Prompt Engineering",
-            "Real-time Streaming Pipelines (Kafka)"
-        ]
-
-        self.fun_fact = "I once built a doorbell that recognized faces 🔔👁️"
-
-    def motto(self):
-        return "🚀 Build. Break. Learn. Repeat."
-
-me = Kamalesh()
-print(me.motto())
+```javascript
+const kamalesh = {
+    role        : ["Data Scientist", "AI Engineer", "ML Engineer"],
+    location    : "Tamil Nadu, India 🇮🇳",
+    education   : "B.Tech AI & Data Science — Karpagam College of Engineering (2025)",
+    focus       : ["MLOps", "LLMs", "Data Pipelines", "Computer Vision"],
+    stack       : ["Python", "SQL", "TensorFlow", "FastAPI", "dbt", "BigQuery", "MLflow", "Docker"],
+    building    : "Scalable data pipelines & intelligent AI systems 🚀",
+    ...
+}
 ```
 
 <br clear="right"/>
