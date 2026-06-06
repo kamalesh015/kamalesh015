@@ -18,14 +18,14 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
-const kamalesh = {
+kamalesh = {
     role        : ["Data Scientist", "AI Engineer", "ML Engineer"],
     location    : "Tamil Nadu, India 🇮🇳",
     education   : "B.Tech AI & Data Science — Karpagam College of Engineering (2025)",
     focus       : ["MLOps", "LLMs", "Data Pipelines", "Computer Vision"],
     stack       : ["Python", "SQL", "TensorFlow", "FastAPI", "dbt", "BigQuery", "MLflow", "Docker"],
     building    : "Scalable data pipelines & intelligent AI systems 🚀",
-    ...
+    
 }
 ```
 
