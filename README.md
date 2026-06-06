@@ -1,13 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Kamalesh%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Intelligent%20Systems&amp;descAlignY=62&amp;descSize=16" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Kamalesh+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;ML+%7C+Deep+Learning+%7C+MLOps+Enthusiast;Building+Intelligent+Data+Pipelines+%F0%9F%9A%80)](https://github.com/kamalesh015)
+<h1>Hi, I'm Kamalesh M 👋</h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kamalesh015&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/kamalesh015)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamalesh--m-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalesh-m-8a0776255)
-[![Email](https://img.shields.io/badge/Email-mk.kamalesh15%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mk.kamalesh15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kamalesh015-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kamalesh015)
+<p><strong>AI &amp; Data Science Engineer</strong> · Tamil Nadu, India</p>
+
+<p><em>Building scalable data pipelines &amp; intelligent AI systems — from raw data to production.</em></p>
+
+<p>
+  <a href="https://linkedin.com/in/kamalesh-m-8a0776255">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kamalesh015">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/kamalesh015">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:mk.kamalesh15@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Engineer-1db954?style=flat-square" alt="Open to Work"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=kamalesh015&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -18,13 +36,12 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
-kamalesh = {
+const kamalesh = {
     role        : ["Data Scientist", "AI Engineer", "ML Engineer"],
     location    : "Tamil Nadu, India 🇮🇳",
     education   : "B.Tech AI & Data Science — Karpagam College of Engineering (2025)",
     focus       : ["MLOps", "LLMs", "Data Pipelines", "Computer Vision"],
     stack       : ["Python", "SQL", "TensorFlow", "FastAPI", "dbt", "BigQuery", "MLflow", "Docker"],
-    building    : "Scalable data pipelines & intelligent AI systems 🚀",
     motto       : () => "Build. Break. Learn. Repeat.",
 }
 ```
@@ -192,9 +209,9 @@ kamalesh = {
 
 ```
 🤖 LLM Fine-tuning        →  LoRA, QLoRA, PEFT, Hugging Face Transformers
-⚙️ Advanced MLOps         →  Model Monitoring, Drift Detection, CI/CD for ML
+⚙️  Advanced MLOps         →  Model Monitoring, Drift Detection, CI/CD for ML
 🌊 Real-time Pipelines    →  Apache Kafka, Spark Streaming, Flink
-☁️ Cloud Data Engineering →  GCP Dataflow, BigQuery ML, Cloud Run
+☁️  Cloud Data Engineering →  GCP Dataflow, BigQuery ML, Cloud Run
 🔐 Responsible AI         →  Model Explainability (SHAP, LIME), Fairness & Bias
 ```
 
