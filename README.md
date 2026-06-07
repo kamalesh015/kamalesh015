@@ -91,21 +91,6 @@ const kamalesh = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/kamalesh015">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalesh015&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10&amp;cache_seconds=1800" alt="Kamalesh's GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/kamalesh015">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh015&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10&amp;cache_seconds=1800" alt="Top Languages"/>
-</a>
-
-</div>
 
 ---
 
